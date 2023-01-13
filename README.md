@@ -7,8 +7,9 @@
   * I can speak fluently Spanish, English and Italian.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angvp&layout=compact&hide=Gettext%20Catalog&show_icons=true&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=angvp&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=angvp&layout=compact&hide=Gettext%20Catalog&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=angvp&show_icons=true&theme=radical)
+
 
 You can find here configs of my tools and projects that I have worked on or that piqued my interest, feel free to contact me if you like any of my projects and want to collaborate in any of them.
 
