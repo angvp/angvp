@@ -2,8 +2,8 @@
 
   * I'm a Former Arch Linux Developer and Trusted User.
   * Also I have been contributor of couple of django packages, some known, some not that known.
-  * I was Born in 🇻🇪 with an Argentinian heart 🇦🇷 ❤️.
-  * I currently live in Toronto, Canada 🇨🇦 🍁.
+  * Venezuelan by birth 🇻🇪 Argentinian by heart 🇦🇷 Canadian by choice 🇨🇦 .
+  * I currently live in Alberta, Canada 🇨🇦 🍁.
   * I can speak fluently Spanish, English and Italian.
 
 
