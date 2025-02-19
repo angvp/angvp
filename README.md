@@ -1,5 +1,6 @@
 ### Hola! 👋, my name is Ángel (ˈānjəl) Velásquez and here are some facts about me
 
+  * I'm the founder of Hannaco Software Inc.
   * I'm a Former Arch Linux Developer and Trusted User.
   * Also I have been contributor of couple of django packages, some known, some not that known.
   * Venezuelan by birth 🇻🇪 Argentinian by heart 🇦🇷 Canadian by choice 🇨🇦 .
