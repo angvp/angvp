@@ -1,6 +1,5 @@
 ### Hola! 👋, my name is Ángel (ˈānjəl) Velásquez and here are some facts about me
 
-  * I'm the founder of [Hannaco Software Inc.](https://hannacosoft.com)
   * I'm a Former [Arch Linux Developer and Package Maintainer](https://archlinux.org/people/developer-fellows/#angvp).
   * Also I have been contributor of couple of django packages, some known, some not that known.
   * Venezuelan by birth 🇻🇪 Argentinian by heart 🇦🇷 Canadian by choice 🇨🇦 .
