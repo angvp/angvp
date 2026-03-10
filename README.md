@@ -6,9 +6,6 @@
   * I currently live in Calgary, Alberta, Canada 🇨🇦 🍁.
   * I can speak fluently Spanish, English and Italian.
 
-[![trophy](https://trophy.ryglcloud.net/api?username=angvp)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ![Top Langs and Github Stats](https://trophy.ryglcloud.net/api/top-langs/?username=angvp&layout=compact&hide=Gettext%20Catalog&show_icons=true&theme=radical)
 
 
