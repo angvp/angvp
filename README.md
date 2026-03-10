@@ -6,11 +6,11 @@
   * I currently live in Calgary, Alberta, Canada 🇨🇦 🍁.
   * I can speak fluently Spanish, English and Italian.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=angvp)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/api?username=angvp)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angvp&layout=compact&hide=Gettext%20Catalog&show_icons=true&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=angvp&show_icons=true&theme=radical)
+![Top Langs](https://trophy.ryglcloud.net/api/top-langs/?username=angvp&layout=compact&hide=Gettext%20Catalog&show_icons=true&theme=radical)
+![GitHub stats](https://trophy.ryglcloud.net/api?username=angvp&show_icons=true&theme=radical)
 
 
 You can find here configs of my tools and projects that I have worked on or that piqued my interest, feel free to contact me if you like any of my projects and want to collaborate in any of them.
