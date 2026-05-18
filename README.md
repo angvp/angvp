@@ -3,16 +3,16 @@
 > 🖥️ Former Webmaster / SysAdmin / Linux Nerd / Engineer.  
 > 🤖 Apparently the title is now “Full-Stack Prompt Engineer”.  
 > 📦 Former [Arch Linux Developer and Package Maintainer](https://archlinux.org/people/developer-fellows/#angvp), maintaining 100+ Linux packages over the years.  
-> 🐍 Contributor to several Django packages, some well known, some a bit more niche.  
+> 🐍 Contributor to several open-source Django packages, some well known, some a bit more niche.  
 > 🌎 Venezuelan by birth 🇻🇪 · Argentinian by heart 🇦🇷 · Canadian by choice 🇨🇦  
 > 🍁 Currently living in Calgary, Alberta, Canada.  
 > 🗣️ Fluent in Spanish, English, and Italian.
 > 🛠️ I write software, break homelabs, and occasionally do stand-up comedy.  
-> 🎷 And occasionally make some noise with my saxophone.
+> 🎷 Occasionally making questionable amounts of noise with my saxophone.
 
 ---
 
-### 🛠️ Tech & Interests
+### ⚙️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -27,7 +27,7 @@
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://trophy.ryglcloud.net/api/top-langs/?username=angvp&layout=compact&hide=Gettext%20Catalog&show_icons=true&theme=radical)
+![Top Langs](https://trophy.ryglcloud.net/api/top-langs/?username=angvp&layout=compact&theme=radical)
 
 ---
 
